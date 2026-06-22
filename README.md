@@ -4,7 +4,7 @@
 
 I bridge the gap between creative front-end design, logical data analysis, and secure back-end development. From crafting intuitive, responsive UI/UX layouts that make user interactions seamless, to analyzing data patterns and engineering secure full-stack web applications, I build digital solutions that are polished, optimized, and highly reliable.
 
---
+---
 
 ### Highlighted Projects
 
