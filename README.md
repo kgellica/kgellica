@@ -20,18 +20,54 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 
 ---
 ### 💻 Tech Stack
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
+</div>
 
-**Languages & Core Web**
-![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br />
 
-**Frameworks, Libraries & Tools**
-![Laravel](https://img.shields.io/badge/-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div data-importer="techs-data-design" align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=canva" height="60" alt="canva logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+</div>
 
-**Data Science & Machine Learning**
-![NumPy](https://img.shields.io/badge/-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+###
 
-**Design, Hosting & Version Control**
-![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Vercel](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div data-importer="socials" align="center">
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://github.com/mishgellica" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=121011&logoColor=white&style=for-the-badge" height="25" alt="github logo" /></a>
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishgellica&theme=dracula&show_icons=true&hide_border=false&border_radius=5" height="150" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=mishgellica&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kgellica&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kgellica&theme=dark&hide_border=false)<br/>
