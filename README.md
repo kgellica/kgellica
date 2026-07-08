@@ -46,7 +46,6 @@ I bridge the gap between creative front-end design, logical data analysis, and s
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="60" alt="canva logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
   <img width="12" />
