@@ -35,7 +35,6 @@ I bridge the gap between creative front-end design, logical data analysis, and s
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
 </div>
 
 <br />
@@ -56,22 +55,11 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="https://github.com/mishgellica" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=121011&logoColor=white&style=for-the-badge" height="25" alt="github logo" /></a>
-</div>
-
-###
-
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishgellica&theme=dracula&show_icons=true&hide_border=false&border_radius=5" height="150" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=mishgellica&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kgellica&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kgellica&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kgellica&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
 ### Let's Connect!
 * **Portfolio:** [mishgellica-portfolio](mishgellica-portfolio.vercel.app)
