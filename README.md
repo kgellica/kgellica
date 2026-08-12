@@ -61,7 +61,7 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 ###
 
 ### Let's Connect!
-* **Portfolio:** [mishgellica-portfolio](mishgellica-portfolio.vercel.app)
+* **Portfolio:** [mishgellica-portfolio](https://mishgellica-portfolio.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/kgellica](https://www.linkedin.com/in/kgellica/)
 * **Email:** [mishgellica@gmail.com](mailto:mishgellica@gmail.com)
 * **Location:** Davao City, Philippines
